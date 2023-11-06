@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj": {}
+    "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj": {
+    "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
+        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
         "projectName": "HelperStockBeta.Domain.Test",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
+        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\obj\\",
+        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-                "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+              "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+                "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
               }
             }
           }
@@ -85,18 +85,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+    "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
         "projectName": "HelperStockBeta.Domain",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
+        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

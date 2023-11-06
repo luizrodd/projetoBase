@@ -769,11 +769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
       "projectName": "HelperStockBeta.WebUI",
-      "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
+      "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
       "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -790,8 +790,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj"
+            "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Infra.IoC\\HelperStockBeta.Infra.IoC.csproj"
             }
           }
         }
@@ -830,7 +830,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   },

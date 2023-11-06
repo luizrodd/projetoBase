@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C7WCmoxfKrI5ygcMkAhJzJtp3sV+7GRhCGolTfao+kqz1DEd+s/aRnXqtatdulChdBS/DCnnIT+u2gEewkyKHg==",
+  "dgSpecHash": "9zGeTe5QsRxrFjlvuH2fbZWqeZFxUv6+TyjiC3dDvAIJ8FO/yVqlgM0eeJjr6ewRJ7imoQ7RfNAA3/6pfibFIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.WebUI\\HelperStockBeta.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizb\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.0.0\\microsoft.aspnetcore.mvc.razor.extensions.3.0.0.nupkg.sha512",
     "C:\\Users\\luizb\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.0.0.nupkg.sha512",

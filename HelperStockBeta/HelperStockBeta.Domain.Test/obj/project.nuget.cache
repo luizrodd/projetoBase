@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msNIZHLmS8n7S8EYt08tKwT30SxNNCP3sfFKw3z8YGQDMgTN6vD0yi8D1nNkwo39+F4/34OkgknP6AipGcX0Aw==",
+  "dgSpecHash": "3tbz4OcVEAhFD6XhZ7VuUCBlxR+3TlAColZb2duF+U78/u5kdTVH7TnksRqtKBii/8DgTEinqj1h324R5fzTfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
+  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain.Test\\HelperStockBeta.Domain.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luizb\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\luizb\\.nuget\\packages\\fluentassertions\\6.0.0\\fluentassertions.6.0.0.nupkg.sha512",
