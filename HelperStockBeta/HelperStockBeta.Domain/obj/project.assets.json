@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
       "projectName": "HelperStockBeta.Domain",
-      "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+      "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
       "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\github\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
+      "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\FATEC\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
