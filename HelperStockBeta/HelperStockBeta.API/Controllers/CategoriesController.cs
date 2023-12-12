@@ -1,6 +1,7 @@
-﻿using HelperStockBeta.Application.DTOs;
-using HelperStockBeta.Application.Interfaces;
+﻿using HelperStockBeta.API.Controllers;
 using Microsoft.AspNetCore.Mvc;
+using HelperStockBeta.Application.Interfaces;
+using HelperStockBeta.Application.DTOs;
 
 namespace HelperStockBeta.API.Controllers
 {
